@@ -1,0 +1,70 @@
+Orsolya	2	true
+Zsolt	0	false
+Orsolya	2	true
+Zsolt	1	false
+Player 1	5	true
+Player 2	2	false
+Player	2	false
+Player 2	5	true
+Player	1	true
+Player 2	0	false
+Player	1	true
+Player3	0	false
+Player56	1	true
+Player78	0	false
+Player567	0	false
+Player781	1	true
+Player 123	0	false
+Player 2	5	true
+Player 1	3	false
+Player 2	5	true
+Player 1	5	true
+Player 2	2	false
+Orsolya	2	false
+Zsolt	3	true
+Player 1	1	true
+Player 2	0	false
+Player 1	1	true
+Player 2	0	false
+Player 1	0	false
+Player 2	1	true
+Player 1	1	true
+Player 2	0	false
+Left	0	false
+Right	1	true
+Left	1	true
+Right	0	false
+Player 1	5	true
+Player 2	0	false
+Player 1	5	true
+Player 2	0	false
+Player 1	0	false
+Player 2	2	true
+Player 1	2	true
+Player 2	1	false
+Player 1	0	false
+Player 2	2	true
+Player 1	0	false
+Player 2	2	true
+Player 1	2	true
+Player 2	0	false
+Player 1	0	false
+Player 2	2	true
+Player 1	1	false
+Player 2	2	true
+Player 1	0	false
+Player 2	2	true
+Player 1	2	true
+Player 2	0	false
+Player 1	5	true
+Player 2	3	false
+Player 1	2	false
+Player 2	5	true
+Player 1	2	true
+Player 2	1	false
+Player 1	1	false
+Player 2	5	true
+Orsolya	2	false
+Player 2	5	true
+Orsolya	1	false
+Player 2	3	true
